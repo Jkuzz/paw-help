@@ -74,7 +74,7 @@ export const App = () => {
           >
             Visit Apify
           </a>
-          <Button>I am shadcn button</Button>
+          <Button>I am shadcn button textik</Button>
         </div>
       </div>
     </>
